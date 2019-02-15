@@ -19,3 +19,5 @@ sudo pip install tensorboard_logger \
 
 sudo apt install python-tk \
     ffmpeg
+
+sudo conda install -c anaconda pandas

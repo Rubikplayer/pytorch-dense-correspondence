@@ -1,11 +1,11 @@
 peteflo-i7gtx:
   peteflo:
-    path_to_data_directory: '/media/peteflo/3TBbackup/dense_correspondence'
+    path_to_data_directory: '/home/ICT2000/tli/Workspace/pytorch-dense-correspondence'
 
 paladin-23:
   manuelli:
-    path_to_data_directory: '/home/manuelli/data'
+    path_to_data_directory: '/home/ICT2000/tli/Workspace/pytorch-dense-correspondence/pdc'
 
 iiwa-2:
   manuelli:
-    path_to_data_directory: '/home/manuelli/data'
+    path_to_data_directory: '/home/ICT2000/tli/Workspace/pytorch-dense-correspondence/pdc'
